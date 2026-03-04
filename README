@@ -10,5 +10,6 @@ Mcmctree_without_outgroup: An example to show the parameter settings and the inp
 
 Mcmctree_with_outgroup: Like the example shown without Cyanobacteria outgroup, essential input data and the program configure files are provided, but the phylogeny used in this case contain non-oxygenic Cyanobacteria lineages.
 
-Details and command lines are available by request. 
+Details and command lines are available by request.
 
+Chinese usage guide for integrating BadiRate/AnGST/GeneRax: `docs/BadiRate_AnGST_GeneRax_使用指南.md`.
